@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\adminhome\\sinhvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|d:\\visual code\\qlnld\\qlnld\\views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "QLNLD\\Views\\AdminHome\\EditQuanLy.cshtml",
               "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\AdminHome\\EditQuanLy.cshtml",
               "RelativeToolTip": "QLNLD\\Views\\AdminHome\\EditQuanLy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-26T18:47:25.316Z",
               "EditorCaption": ""
@@ -107,8 +107,7 @@
               "RelativeToolTip": "QLNLD\\Views\\AdminHome\\EditSinhVien.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T05:39:04.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T05:39:04.398Z"
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "QLNLD\\Views\\AdminHome\\SinhVien.cshtml",
               "ViewState": "AQIAAF0AAAAAAAAAAAAkwHIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T05:12:34.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T05:12:34.423Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "QLNLD\\Controllers\\AdminHomeController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAxwBYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T04:07:20.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T04:07:20.155Z"
             },
             {
               "$type": "Document",
@@ -158,8 +155,7 @@
               "RelativeToolTip": "QLNLD\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAADMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T17:00:20.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:00:20.612Z"
             },
             {
               "$type": "Document",
@@ -195,8 +191,7 @@
               "RelativeToolTip": "QLNLD\\Views\\AdminHome\\QuanLy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T14:49:27.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T14:49:27.03Z"
             },
             {
               "$type": "Document",
@@ -208,8 +203,7 @@
               "RelativeToolTip": "QLNLD\\Views\\AdminHome\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T13:53:49.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T13:53:49.764Z"
             }
           ]
         },
