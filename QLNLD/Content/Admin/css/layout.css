@@ -1,5 +1,5 @@
 ﻿body {
-    background: linear-gradient(to bottom, #344767, #ffffff);
+    background: linear-gradient(to bottom, #ffffff, #717e94);
     min-height: 100vh; /* Đảm bảo gradient bao phủ toàn bộ trang */
     margin: 0; /* Xóa margin mặc định của body */
     font-family: "Open Sans", sans-serif !important;
