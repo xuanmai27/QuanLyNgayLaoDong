@@ -10,8 +10,8 @@
     <body  style="overflow-x: hidden;"> <!-- Ngăn chặn thanh cuộn ngang -->
         <div class="d-flex">
             <!-- Sidebar -->
-            <aside class="bg-white position-fixed shadow m-4 rounded-5 pb-4"
-                   style="width: 250px; height: 100vh; left: 0; top: 0;">
+            <aside class="bg-white  shadow m-4 rounded-5 pb-4"
+                   style="width: 250px; min-height: 95vh; left: 0; top: 0;">
                 <div class="p-3">
                     <a class="navbar-brand d-flex align-items-center" href="#">
                         <img src="@Url.Content("~/Content/Admin/Image/Screenshot 2025-02-23 214442.png")" style="height:40px;width:40px" alt="main_logo">
@@ -39,7 +39,7 @@
 
             <!-- Main Content -->
             <main class="main-content flex-grow-1 position-relative border-radius-lg"
-                  style="margin-left: 280px; padding: 20px; width: calc(100% - 280px);">
+                  style=" padding: 20px; width: calc(100% - 280px);">
                 <nav class="navbar navbar-main navbar-expand-lg px-0 mx-4 shadow-none border-radius-xl">
                     <div class="container-fluid py-1 px-3">
                         <img src="@Url.Content("~/Content/Admin/Image/LogoTruong.png")" style="object-fit:cover;margin-right:20px" />

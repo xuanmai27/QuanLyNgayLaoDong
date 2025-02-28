@@ -129,7 +129,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\Admin\css\AccountManager.css" />
+    <Content Include="Content\Admin\css\AccountManager.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Content\Admin\css\sinhvien.css" />
     <Content Include="Content\Admin\css\HomePage.css" />
     <Content Include="Content\Admin\css\layout.css" />

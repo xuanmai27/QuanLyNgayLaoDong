@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "D:\\Visual code\\QLNLD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|d:\\visual code\\qlnld\\qlnld\\content\\admin\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\content\\admin\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,28 +11,32 @@
       "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\adminhome\\editquanly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\views\\adminhome\\editsinhvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\adminhome\\editsinhvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\views\\adminhome\\quanly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\adminhome\\quanly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\views\\adminhome\\sinhvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\adminhome\\sinhvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\content\\admin\\css\\sinhvien.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\content\\admin\\css\\sinhvien.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\content\\admin\\css\\accountmanager.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\content\\admin\\css\\accountmanager.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\content\\admin\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\content\\admin\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\views\\adminhome\\editsinhvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\adminhome\\editsinhvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\content\\admin\\css\\sinhvien.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\content\\admin\\css\\sinhvien.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,19 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EditQuanLy.cshtml",
               "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\AdminHome\\EditQuanLy.cshtml",
               "RelativeDocumentMoniker": "QLNLD\\Views\\AdminHome\\EditQuanLy.cshtml",
               "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\AdminHome\\EditQuanLy.cshtml",
               "RelativeToolTip": "QLNLD\\Views\\AdminHome\\EditQuanLy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T18:47:25.316Z"
+              "WhenOpened": "2025-02-26T18:47:25.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EditSinhVien.cshtml",
               "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\AdminHome\\EditSinhVien.cshtml",
               "RelativeDocumentMoniker": "QLNLD\\Views\\AdminHome\\EditSinhVien.cshtml",
@@ -122,19 +119,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "SinhVien.cshtml",
               "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\AdminHome\\SinhVien.cshtml",
               "RelativeDocumentMoniker": "QLNLD\\Views\\AdminHome\\SinhVien.cshtml",
               "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\AdminHome\\SinhVien.cshtml",
               "RelativeToolTip": "QLNLD\\Views\\AdminHome\\SinhVien.cshtml",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAkwHIAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T05:12:34.423Z"
+              "WhenOpened": "2025-02-26T05:12:34.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AdminHomeController.cs",
               "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Controllers\\AdminHomeController.cs",
               "RelativeDocumentMoniker": "QLNLD\\Controllers\\AdminHomeController.cs",
@@ -146,19 +144,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "QLNLD\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "QLNLD\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T17:00:20.612Z"
+              "WhenOpened": "2025-02-23T17:00:20.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "layout.css",
               "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Content\\Admin\\css\\layout.css",
               "RelativeDocumentMoniker": "QLNLD\\Content\\Admin\\css\\layout.css",
@@ -171,19 +170,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "AccountManager.css",
               "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Content\\Admin\\css\\AccountManager.css",
               "RelativeDocumentMoniker": "QLNLD\\Content\\Admin\\css\\AccountManager.css",
               "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Content\\Admin\\css\\AccountManager.css",
               "RelativeToolTip": "QLNLD\\Content\\Admin\\css\\AccountManager.css",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-23T14:50:21.379Z"
+              "WhenOpened": "2025-02-23T14:50:21.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "QuanLy.cshtml",
               "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\AdminHome\\QuanLy.cshtml",
               "RelativeDocumentMoniker": "QLNLD\\Views\\AdminHome\\QuanLy.cshtml",
@@ -191,19 +191,7 @@
               "RelativeToolTip": "QLNLD\\Views\\AdminHome\\QuanLy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T14:49:27.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\AdminHome\\Index.cshtml",
-              "RelativeDocumentMoniker": "QLNLD\\Views\\AdminHome\\Index.cshtml",
-              "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\AdminHome\\Index.cshtml",
-              "RelativeToolTip": "QLNLD\\Views\\AdminHome\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T13:53:49.764Z",
+              "WhenOpened": "2025-02-23T14:49:27.03Z",
               "EditorCaption": ""
             }
           ]
