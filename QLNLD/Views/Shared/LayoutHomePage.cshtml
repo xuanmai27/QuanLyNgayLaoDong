@@ -1,0 +1,71 @@
+﻿<html5>
+    <head>
+        <link rel="stylesheet" href="@Url.Content("~/Content/Admin/css/layout.css")">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link href="~/Content/SinhVien/CSS/HomePage.css" rel="stylesheet">
+        @RenderSection("Styles", required: false)
+
+    </head>
+    <body style="overflow-x: hidden;">
+
+       <!-- Main Content -->
+        <main class="main-content flex-grow-1 position-relative border-radius-lg" style=" padding: 10px;">
+            <nav class="rounded-2">
+                <div class="nav-content">
+                    <a href="@Url.Action("Index", "HomePage")">
+                        <img   src="~/Content/SinhVien/Image/LogoTruong.png" alt="Logo" class="logo">
+                    </a>
+                    @*   <div class="nav-content-text">HỆ THỐNG QUẢN LÝ LAO ĐỘNG</div>*@
+                    <div class="user-menu" id="userMenu">
+                        <img src="" alt="User Avatar" class="user-avatar">
+                        <label class="user-name">Hạ An</label>
+                        <i class="fa fa-caret-down"></i>
+                        <ul class="dropdown-menu" id="dropdownMenu">
+                            <li><a class="a-color" href="../HTML/Trangthongsinhvien.html">Thông tin cá nhân</a></li>
+                            <li><a class="a-color" href="#">Đổi mật khẩu</a></li>
+                            <li><a class="a-color" href="login.html">Đăng xuất</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <div class="container-fluid py-4">
+                <div class="d-flex">
+                    <!-- Sidebar -->
+                    <aside class="bg-white  shadow m-x-4 rounded-5 pb-4"
+                           style="width: 300px; min-height: 95vh; left: 0; top: 0;">
+                        <div class="p-3">
+                            <a class="navbar-brand d-flex align-items-center" href="#">
+                                <img src="@Url.Content("~/Content/Admin/Image/Screenshot 2025-02-23 214442.png")" style="height:60px;width:60px" alt="main_logo">
+                                <span class="ms-2 fw-bold grayColor">THÔNG TIN CÁ NHÂN</span>
+                            </a>
+                        </div>
+                        <hr class="hr">
+                        <div style="text-align:center">
+                            <p>Họ và tên: <span style="font-weight:bold">Hạ An</span></p>
+                            <p>Số điện thoại: <span style="font-weight:bold">0123 456 789</span></p>
+                            <p>Lớp: <span style="font-weight:bold">DHCNTT</span></p>
+                            <div>
+                                <a  href="@Url.Action("XemChiTietThongTinCaNhan", "HomePage")"  class="font-weight-bolder link " style="color: #a6acaf">Xem chi tiết...</a>
+                            </div>
+                        </div>
+                    </aside>
+                    @RenderBody()
+                </div>
+                </div>
+                <footer class="footer">
+                    <div class="footer_bottom">
+                        <div class="grid">
+                            <script>
+                                document.write(new Date().getFullYear())
+                            </script>,
+                            <p class="footer-text">&#64; Trường Đại Học Đồng Tháp</p>
+                        </div>
+                    </div>
+                </footer>
+                
+        </main>
+    </body>
+</html5>

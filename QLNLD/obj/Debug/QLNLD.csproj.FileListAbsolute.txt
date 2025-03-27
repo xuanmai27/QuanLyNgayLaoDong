@@ -78,3 +78,7 @@ D:\Visual code\QLNLD\QLNLD\obj\Debug\QLNLD.csproj.Up2Date
 D:\Visual code\QLNLD\QLNLD\obj\Debug\QLNLD.dll
 D:\Visual code\QLNLD\QLNLD\obj\Debug\QLNLD.pdb
 D:\Visual code\QLNLD\QLNLD\bin\Content\Admin\css\AccountManager.css
+D:\Visual code\QLNLD\QLNLD\bin\EntityFramework.dll
+D:\Visual code\QLNLD\QLNLD\bin\EntityFramework.SqlServer.dll
+D:\Visual code\QLNLD\QLNLD\bin\EntityFramework.xml
+D:\Visual code\QLNLD\QLNLD\bin\EntityFramework.SqlServer.xml
