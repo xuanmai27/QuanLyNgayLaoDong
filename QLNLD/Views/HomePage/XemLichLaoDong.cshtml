@@ -1,0 +1,93 @@
+﻿
+@{
+    ViewBag.Title = "XemLichLaoDong";
+    Layout = "~/Views/Shared/LayoutHomePage.cshtml";
+}
+@section Styles {
+    <link rel="stylesheet" href="~/Content/SinhVien/CSS/DangKKyLaoDong.css" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+}
+<div class="main-content container ">
+    <div class="d-flex">
+        <input class="date" type="date" />
+        <button style="border: none;" class="BtnSearch">Tìm</button>
+    </div>
+    <div>
+        <label for="cars">Lọc theo tiến độ</label>
+        <select class="select" id="status" name="status">
+            <option value="ChuaHoanThanh">Chưa hoàn thành</option>
+            <option value="ChoXacNhan">Chờ xác nhận</option>
+            <option value="DaXacNhan">Đã xác nhận</option>
+        </select>
+
+    </div>
+    <div class="row">
+        <div class="card mb-4 rounded-4">
+            <div class="card-header pb-0 pt-3">
+                <h6 style="color: #1f618d">LỊCH LAO ĐỘNG CÁ NHÂN</h6>
+            </div>
+            <div class="card-body px-0 pt-0 pb-2">
+                <div class="table-responsive p-0">
+                    <table class="table align-items-center mb-0">
+                        <thead>
+                            <tr>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">TÊN ĐỢT</th>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">NGÀY LAO ĐỘNG</th>
+                                <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">THỜI GIAN</th>
+                                <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">ĐỊA ĐIỂM</th>
+                                <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">TRẠNG THÁI</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <div class="d-flex px-2 py-1">
+                                        <div class="d-flex flex-column justify-content-center">
+                                            <h6 class="mb-0" style="color:black">Lao động đợt 1</h6>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <p class="text-xs font-weight-bold mb-0">27/4/2025</p>
+                                </td>
+                                <td class="align-middle text-center text-sm">
+                                    <span class="activeStatus">7h30-9h</span>
+                                </td>
+                                <td class="align-middle text-center">
+                                    <span class="activeStatus">Sân C1</span>
+
+                                </td>
+                                <td class="align-middle text-center">
+                                    <span>Chưa hoàn thành</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="d-flex px-2 py-1">
+                                        <div class="d-flex flex-column justify-content-center">
+                                            <h6 class="mb-0 text-sm" style="color:black">Lao động đợt 1</h6>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <p class="text-xs font-weight-bold mb-0">27/4/2025</p>
+                                </td>
+                                <td class="align-middle text-center text-sm">
+                                    <span class="activeStatus">7h30-9h</span>
+                                </td>
+                                <td class="align-middle text-center">
+                                    <span class="activeStatus">Sân C1</span>
+
+                                </td>
+                                <td class="align-middle text-center">
+                                    <span >Hoàn thành</span>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -16,6 +16,18 @@ namespace QLNLD.Controllers
         public ActionResult XemChiTietThongTinCaNhan() {
             return View();
         }
+        public ActionResult DangKiLaoDong()
+        {
+            return View();
+        }
+        public ActionResult ThongKe()
+        {
+            return View();
+        }
+        public ActionResult XemLichLaoDong()
+        {
+            return View();
+        }
         
     }
 }

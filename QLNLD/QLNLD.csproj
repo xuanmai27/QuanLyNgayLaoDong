@@ -180,6 +180,7 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\SinhVien\CSS\CanBolop.css" />
+    <Content Include="Content\SinhVien\CSS\DangKKyLaoDong.css" />
     <Content Include="Content\SinhVien\CSS\DiemDanh.css" />
     <Content Include="Content\SinhVien\CSS\DoiMatkhau.css" />
     <Content Include="Content\SinhVien\CSS\Info.css" />
@@ -237,6 +238,9 @@
     <Content Include="Views\Shared\LayoutHomePage.cshtml" />
     <Content Include="Views\HomePage\Index.cshtml" />
     <Content Include="Views\HomePage\XemChiTietThongTinCaNhan.cshtml" />
+    <Content Include="Views\HomePage\DangKiLaoDong.cshtml" />
+    <Content Include="Views\HomePage\ThongKe.cshtml" />
+    <Content Include="Views\HomePage\XemLichLaoDong.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

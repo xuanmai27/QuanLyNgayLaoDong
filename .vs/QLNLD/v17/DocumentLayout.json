@@ -7,28 +7,28 @@
       "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\homepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|d:\\visual code\\qlnld\\qlnld\\views\\shared\\layouthomepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\shared\\layouthomepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|d:\\visual code\\qlnld\\qlnld\\views\\homepage\\dangkilaodong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\homepage\\dangkilaodong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|d:\\visual code\\qlnld\\qlnld\\controllers\\homepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|d:\\visual code\\qlnld\\qlnld\\content\\sinhvien\\css\\dangkkylaodong.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\content\\sinhvien\\css\\dangkkylaodong.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|D:\\Visual code\\QLNLD\\qlnld\\controllers\\homepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\controllers\\homepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|d:\\visual code\\qlnld\\qlnld\\content\\sinhvien\\css\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\content\\sinhvien\\css\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|d:\\visual code\\qlnld\\qlnld\\views\\homepage\\thongke.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\homepage\\thongke.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|d:\\visual code\\qlnld\\qlnld\\views\\homepage\\xemchitietthongtincanhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\homepage\\xemchitietthongtincanhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|d:\\visual code\\qlnld\\qlnld\\views\\homepage\\xemlichlaodong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\homepage\\xemlichlaodong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|d:\\visual code\\qlnld\\qlnld\\content\\sinhvien\\css\\info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\content\\sinhvien\\css\\info.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|d:\\visual code\\qlnld\\qlnld\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|d:\\visual code\\qlnld\\qlnld\\views\\shared\\layouthomepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4DB6191-87CB-4EAC-A734-5DEAEBCC9A69}|QLNLD\\QLNLD.csproj|solutionrelative:qlnld\\views\\shared\\layouthomepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -75,53 +75,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Info.css",
-              "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Content\\SinhVien\\CSS\\Info.css",
-              "RelativeDocumentMoniker": "QLNLD\\Content\\SinhVien\\CSS\\Info.css",
-              "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Content\\SinhVien\\CSS\\Info.css",
-              "RelativeToolTip": "QLNLD\\Content\\SinhVien\\CSS\\Info.css",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAAAHcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-27T17:41:44.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "XemChiTietThongTinCaNhan.cshtml",
-              "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\HomePage\\XemChiTietThongTinCaNhan.cshtml",
-              "RelativeDocumentMoniker": "QLNLD\\Views\\HomePage\\XemChiTietThongTinCaNhan.cshtml",
-              "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\HomePage\\XemChiTietThongTinCaNhan.cshtml",
-              "RelativeToolTip": "QLNLD\\Views\\HomePage\\XemChiTietThongTinCaNhan.cshtml",
-              "ViewState": "AQIAADEAAAAAAAAAAADwvzgAAABFAAAA",
+              "Title": "XemLichLaoDong.cshtml",
+              "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\HomePage\\XemLichLaoDong.cshtml",
+              "RelativeDocumentMoniker": "QLNLD\\Views\\HomePage\\XemLichLaoDong.cshtml",
+              "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\HomePage\\XemLichLaoDong.cshtml",
+              "RelativeToolTip": "QLNLD\\Views\\HomePage\\XemLichLaoDong.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T17:39:14.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "QLNLD\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "QLNLD\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T16:33:15.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomePage.css",
-              "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Content\\SinhVien\\CSS\\HomePage.css",
-              "RelativeDocumentMoniker": "QLNLD\\Content\\SinhVien\\CSS\\HomePage.css",
-              "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Content\\SinhVien\\CSS\\HomePage.css",
-              "RelativeToolTip": "QLNLD\\Content\\SinhVien\\CSS\\HomePage.css",
-              "ViewState": "AQIAABgAAAAAAAAAAADwvzYAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-27T15:45:38.786Z",
+              "WhenOpened": "2025-03-28T09:22:13.613Z",
               "EditorCaption": ""
             },
             {
@@ -132,35 +93,74 @@
               "RelativeDocumentMoniker": "QLNLD\\Views\\HomePage\\Index.cshtml",
               "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\HomePage\\Index.cshtml",
               "RelativeToolTip": "QLNLD\\Views\\HomePage\\Index.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFUAAAAYAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T15:21:34.559Z",
+              "WhenOpened": "2025-03-28T09:16:34.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomePageController.cs",
-              "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Controllers\\HomePageController.cs",
-              "RelativeDocumentMoniker": "QLNLD\\Controllers\\HomePageController.cs",
-              "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Controllers\\HomePageController.cs",
-              "RelativeToolTip": "QLNLD\\Controllers\\HomePageController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:20:10.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "LayoutHomePage.cshtml",
               "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\Shared\\LayoutHomePage.cshtml",
               "RelativeDocumentMoniker": "QLNLD\\Views\\Shared\\LayoutHomePage.cshtml",
               "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\Shared\\LayoutHomePage.cshtml",
               "RelativeToolTip": "QLNLD\\Views\\Shared\\LayoutHomePage.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T15:19:02.203Z",
+              "WhenOpened": "2025-03-28T08:55:21.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangKKyLaoDong.css",
+              "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Content\\SinhVien\\CSS\\DangKKyLaoDong.css",
+              "RelativeDocumentMoniker": "QLNLD\\Content\\SinhVien\\CSS\\DangKKyLaoDong.css",
+              "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Content\\SinhVien\\CSS\\DangKKyLaoDong.css",
+              "RelativeToolTip": "QLNLD\\Content\\SinhVien\\CSS\\DangKKyLaoDong.css",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-28T08:52:44.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThongKe.cshtml",
+              "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\HomePage\\ThongKe.cshtml",
+              "RelativeDocumentMoniker": "QLNLD\\Views\\HomePage\\ThongKe.cshtml",
+              "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\HomePage\\ThongKe.cshtml",
+              "RelativeToolTip": "QLNLD\\Views\\HomePage\\ThongKe.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T08:31:41.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangKiLaoDong.cshtml",
+              "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\HomePage\\DangKiLaoDong.cshtml",
+              "RelativeDocumentMoniker": "QLNLD\\Views\\HomePage\\DangKiLaoDong.cshtml",
+              "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Views\\HomePage\\DangKiLaoDong.cshtml",
+              "RelativeToolTip": "QLNLD\\Views\\HomePage\\DangKiLaoDong.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T08:30:09.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePageController.cs",
+              "DocumentMoniker": "D:\\Visual code\\QLNLD\\QLNLD\\Controllers\\HomePageController.cs",
+              "RelativeDocumentMoniker": "QLNLD\\Controllers\\HomePageController.cs",
+              "ToolTip": "D:\\Visual code\\QLNLD\\QLNLD\\Controllers\\HomePageController.cs",
+              "RelativeToolTip": "QLNLD\\Controllers\\HomePageController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:20:10.224Z",
               "EditorCaption": ""
             }
           ]
